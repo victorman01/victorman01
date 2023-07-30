@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Victor Manuel Soesilo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"><br>
+# Hi there, I'm Victor Manuel Soesilo!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"><br>
 📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast | 🚀 Open Source Advocate<br>💡 I love to learning about Mobile Developer (Kotlin) and Data Science (Image Classification)<br>🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>🚀 Let's learn, grow, and build awesome things together!
 
 
