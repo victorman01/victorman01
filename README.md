@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=victorman01&icon=0&color=5)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/victorman01/victorman01/blob/output/github-contribution-grid-snake.gif)
