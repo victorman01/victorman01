@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my Profile!</h3>
 
-📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast<br>
+📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast | 🌐 Fullstack Web Developer<br>
 💡 I love to learning about Mobile Developer (Kotlin) and Data Science (Image Classification)<br>
 🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>
 📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>
