@@ -72,12 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=victorman01&theme=radical&no-frame=false&no-bg=false"/>
 </div>
 
-<h2 align="center">✍️ Random Dev Quote ✍️</h2>
-<br>
-<div align=center>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
 <div align="center">
   <br>
   <img src="https://raw.githubusercontent.com/victorman01/victorman01/output/github-contribution-grid-snake.svg" />
@@ -88,6 +82,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
-<div align='center'>
-  <img src="https://visitcount.itsvg.in/api?id=victorman01&icon=0&color=5)](https://visitcount.itsvg.in">
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=victorman01">
