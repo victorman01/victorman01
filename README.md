@@ -1,12 +1,16 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Victor+Manuel+Soesilo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Victor+Manuel+Soesilo!;+You+made+it,+here!😎" />
 </h1>
 
 <h3 align="center">Welcome to my Profile!</h3>
 
-📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast<br>💡 I love to learning about Mobile Developer (Kotlin) and Data Science (Image Classification)<br>🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>🚀 Let's learn, grow, and build awesome things together!
+📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast<br>
+💡 I love to learning about Mobile Developer (Kotlin) and Data Science (Image Classification)<br>
+🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>
+📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>
+🚀 Let's learn, grow, and build awesome things together!
+
 <div align="center"> 
-  <br>
   <a href="mailto:vmanuels0083@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white" />
   </a>
@@ -58,7 +62,6 @@
 </div>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
 <div align=center>
   <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=victorman01&theme=synthwave&hide_border=false"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=victorman01&theme=synthwave&hide"/>
@@ -67,19 +70,20 @@
 </div>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
-<br>
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=victorman01&theme=radical&no-frame=false&no-bg=false"/>
 </div>
 
+<h2 align="center">🙌 My Contributions 🙌</h2>
 <div align="center">
-  <br>
   <img src="https://raw.githubusercontent.com/victorman01/victorman01/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
 </div>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Let's+connect+and+ready+to+colab!🙂">
+</div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=victorman01">
+
+<br>
+<h4>© Victor Manuel Soesilo 2023.</h4>
