@@ -60,8 +60,8 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=victorman01&theme=synthwave&hide"/>
   <img width=430 src="https://github-readme-streak-stats.herokuapp.com/?user=victorman01&theme=synthwave&hide_border=false"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=victorman01&theme=synthwave&hide"/>
   <br/>
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorman01&theme=synthwave&hide" />
 </div>
