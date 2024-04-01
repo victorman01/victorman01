@@ -7,7 +7,7 @@
 📊 Machine Learning Enthusiast | 📱 Mobile Development Enthusiast | 🌐 Fullstack Web Developer<br>
 💡 I love to learning about Mobile Developer, Web Developer and Machine Learning<br>
 🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>
-📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>
+📫 Want to collaborate on a project or just chat? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>
 🚀 Let's learn, grow, and build awesome things together!
 
 <div align="center"> 
