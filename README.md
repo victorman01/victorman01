@@ -4,8 +4,8 @@
 
 <h3 align="center">Welcome to my Profile!</h3>
 
-📊 Data Science Enthusiast | 📱 Mobile Development Enthusiast | 🌐 Fullstack Web Developer<br>
-💡 I love to learning about Mobile Developer (Kotlin) and Data Science (Image Classification)<br>
+📊 Machine Learning Enthusiast | 📱 Mobile Development Enthusiast | 🌐 Fullstack Web Developer<br>
+💡 I love to learning about Mobile Developer, Web Developer and Machine Learning<br>
 🎮 When I'm not coding, you can find me playing video games or listening music, and watching movie.<br>
 📫 Want to collaborate on a project or just chat about Mobile Dev? Feel free to reach out to me via email or connect with me on [LinkedIn](https://www.linkedin.com/in/victor-manuel-soesilo-7915721b5/)!<br>
 🚀 Let's learn, grow, and build awesome things together!
@@ -30,24 +30,31 @@
 
 <h2 align="center">💻 Tech Stack 💻 </h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=Next.js&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=.net&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
+    <img src="https://img.shields.io/badge/Android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639">
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=Go&logoColor=white">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </div>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
